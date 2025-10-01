@@ -21,7 +21,7 @@
 
 ---
 
-         *“Effort + Régularité = Progrès”* 
+           *“Effort + Régularité = Progrès”* 
 ```
         _==/          i       i          \==_
      /XX/            |\-"""-/|            \XX\
